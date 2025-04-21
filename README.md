@@ -14,7 +14,7 @@ A retro-style 2D dungeon crawler with combat mechanics, built entirely in raw Ja
 - Built using raw OOP principles and manual game loop handling
 
 ## 📷 Screenshots
-(Add a few images/gifs here!)
+![image](https://github.com/user-attachments/assets/d3418a53-82e8-4032-a782-4e065c00549d)
 
 ## 💾 How to Run
 1. Download the latest `.jar` from [Releases](./releases)
